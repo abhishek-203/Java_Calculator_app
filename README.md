@@ -5,7 +5,7 @@
 # Java_Calculator_app
 
 
-![Logo Simple Java Calculator](logo.png)
+![Logo Simple Java Calculator](assert/logo.jpg)
 
 ---
 
@@ -18,12 +18,12 @@ This Java Calculator App is created using java ,swing and Vscode.
 This project was **originally written using `VsCode`**.
 
 
-## :sparkles: Example
+## : Example
 
-![Example: Java Calculator](Screenshot.png)
+![Example: Java Calculator](ScreenShot/Screenshot.png)
 
 
-## You might also like :monocle_face:
+## You can check in :
 
 **[My Java Calculator App ](https://github.com/abhishek-203/Java_Calculator_app).**
 
@@ -37,4 +37,4 @@ Gmail id : tiwariabhi2031@gmail.com
 
 ## ⚖️ License
 
-Apache License, Version 2.0 or later; Read **[license.txt](./license.txt)** for further details.
+Apache License, Version 2.0 or later; Read **[LICENSE](./LICENSE)** for further details.
